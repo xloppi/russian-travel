@@ -1,5 +1,6 @@
 .header {
   color: #ffffff;
   display: flex;
+  align-items: flex-start;
   justify-content: space-between;
 }
