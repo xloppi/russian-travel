@@ -1,18 +1,29 @@
 .place {
   display: grid;
+<<<<<<< HEAD
   grid-template-columns: 100%;
+=======
+  grid-template-columns: 1fr;
+  grid-template-rows: minmax(min-content, max-content);
+>>>>>>> b7a550d6bc3b19b44206568865964f9ca824072e
   color: #ffffff;
   padding-bottom: 50px;
 }
 
 @media screen and (min-width: 768px) {
   .place {
+<<<<<<< HEAD
     grid-template-columns: repeat(2, calc(50% - 14px));
+=======
+    grid-template-columns: repeat(2, calc(100vh/2));
+    grid-template-rows: repeat(2, minmax(min-content, max-content));
+>>>>>>> b7a550d6bc3b19b44206568865964f9ca824072e
     row-gap: 48px;
     column-gap: 28px;
     grid-template-areas:
     "title website"
     "image place_text"
+<<<<<<< HEAD
   }
 }
 
@@ -20,4 +31,8 @@
   .place {
     max-width: 984px;
   }
+=======
+
+}
+>>>>>>> b7a550d6bc3b19b44206568865964f9ca824072e
 }

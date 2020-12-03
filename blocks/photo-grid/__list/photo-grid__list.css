@@ -19,9 +19,12 @@
     grid-template-columns: 1fr 1fr 1fr;
   }
 }
+<<<<<<< HEAD
 
 @media screen and (min-width: 1024px) {
   .photo-grid__list {
     grid-template-columns: 1fr 1fr 1fr 1fr;
   }
 }
+=======
+>>>>>>> b7a550d6bc3b19b44206568865964f9ca824072e

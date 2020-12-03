@@ -28,6 +28,7 @@
   .cover__background {
     padding:115px 104px 115px 104px;
   }
+<<<<<<< HEAD
 }
 
 @media screen and (min-width: 1024px) {
@@ -40,4 +41,6 @@
   .cover__background {
     padding:245px 312px 245px 312px;
   }
+=======
+>>>>>>> b7a550d6bc3b19b44206568865964f9ca824072e
 }
