@@ -3,3 +3,23 @@
   justify-self: center;
   margin-bottom: 32px;
 }
+
+@media screen and (min-width: 768px) {
+  .place__image {
+    grid-area: image;
+    max-width: 340px;
+    justify-self: start;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .place__image {
+    max-width: 440px;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .place__image {
+    max-width: 460px;
+  }
+}

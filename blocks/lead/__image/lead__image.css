@@ -6,3 +6,16 @@
   height: 62.5vw;
 }
 
+@media screen and (min-width: 768px) {
+  .lead__image {
+    max-width: 928px;
+    max-height: 580px;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .lead__image {
+    max-width: 984px;
+    max-height: 615px;
+  }
+}

@@ -1,0 +1,10 @@
+.intro__container {
+  max-width: 984px;
+}
+
+@media screen and (min-width: 1024px) {
+  .intro__container {
+    box-sizing: border-box;
+    padding-right: 294px;
+  }
+}

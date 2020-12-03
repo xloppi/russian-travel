@@ -14,3 +14,9 @@
     padding: 28px 24px 24px 24px;
   }
 }
+
+@media screen and (min-width: 1024px) {
+  .page {
+    padding: 24px 48px 24px 48px;
+  }
+}
