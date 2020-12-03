@@ -5,11 +5,8 @@
   line-height: 1.09;
   margin: 0 0 32px 0;
   align-self: end;
-<<<<<<< HEAD
   justify-self: start;
-=======
   text-rendering: optimizeLegibility;
->>>>>>> b7a550d6bc3b19b44206568865964f9ca824072e
 }
 
 @media screen and (min-width: 768px) {
