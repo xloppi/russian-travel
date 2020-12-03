@@ -12,6 +12,7 @@
     max-height: 580px;
   }
 }
+<<<<<<< HEAD
 
 @media screen and (min-width: 1280px) {
   .lead__image {
@@ -19,3 +20,5 @@
     max-height: 615px;
   }
 }
+=======
+>>>>>>> b7a550d6bc3b19b44206568865964f9ca824072e
