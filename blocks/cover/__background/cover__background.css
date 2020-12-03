@@ -6,4 +6,26 @@
   width: 100vw;
   height: 62.5vw;
   box-sizing: border-box;
+  position: relative;
+}
+
+.cover__background::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  background: #2A2C2F;
+  opacity: 0.3;
+}
+
+.cover__background:hover::before {
+  opacity: 0.8;
+}
+
+@media screen and (min-width: 768px) {
+  .cover__background {
+    padding:115px 104px 115px 104px;
+  }
 }

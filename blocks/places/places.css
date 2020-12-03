@@ -1,3 +1,15 @@
 .places {
   padding-top: 48px;
 }
+
+@media screen and (min-width: 768px) {
+  .places {
+    padding-top: 74px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .places {
+    padding-top: 88px;
+  }
+}
