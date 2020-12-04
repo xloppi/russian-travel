@@ -12,8 +12,8 @@
     column-gap: 28px;
     padding-bottom: 60px;
     grid-template-areas:
-    "title website"
-    "image place_text"
+      "title website"
+      "image place_text";
   }
 }
 
@@ -26,5 +26,4 @@
 @media screen and (min-width: 1280px) {
   .place {
     max-width: 984px;
-    padding-bottom: 47px;
   }
