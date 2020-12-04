@@ -22,6 +22,7 @@
     max-width: 928px;
     padding-bottom: 47px;
   }
+}
 
 @media screen and (min-width: 1280px) {
   .place {
