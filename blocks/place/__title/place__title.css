@@ -3,7 +3,9 @@
   font-weight: 900;
   font-size: 32px;
   line-height: 1.09;
-  margin: 0 0 32px 0;
+  margin: 0 0 34px 0;
+  width: 100%;
+  max-width: 330px;
   align-self: end;
   text-rendering: optimizeLegibility;
   /*justify-self: start;*/
@@ -13,7 +15,6 @@
   .place__title {
     margin: 0;
     grid-area: title;
-    font-style: normal;
     font-size: 42px;
     line-height: 1.1;
   }

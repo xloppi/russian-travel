@@ -1,10 +1,11 @@
 .places {
-  padding-top: 48px;
+  padding-top: 47px;
+  padding-bottom: 47px;
 }
 
 @media screen and (min-width: 768px) {
   .places {
-    padding-top: 75px;
+    padding-top: 71px;
   }
 }
 

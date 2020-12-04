@@ -1,22 +1,25 @@
 .intro {
-  display: grid;
-  grid-template-columns: 100%;
-  justify-items: center;
   color: #ffffff;
-  padding: 64px 0 64px 0;
-  margin: 0;
+  padding: 66px 0 64px 0;
+  margin: 0 auto;
 }
 
 @media screen and (min-width: 768px) {
   .intro {
-    padding: 86px 0 86px 0;
+    padding: 90px 0 86px 0;
   }
 }
 
 @media screen and (min-width: 1024px) {
   .intro {
     padding: 92px 0 92px 0;
+    max-width: 928px;
   }
 }
 
-
+@media screen and (min-width: 1280px) {
+  .intro {
+    padding: 92px 0 92px 0;
+    max-width: 984px;
+  }
+}

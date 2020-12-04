@@ -3,8 +3,10 @@
   font-weight: normal;
   font-size: 14px;
   line-height: 1.14;
+  margin: 0 auto;
+  width: 100%;
+  max-width: 260px;
   text-align: center;
-  margin: 0;
   position: relative;
 }
 
@@ -12,5 +14,6 @@
   .cover__subtitle {
     font-size: 18px;
     line-height: 1.22;
+    max-width: 360px;
   }
 }

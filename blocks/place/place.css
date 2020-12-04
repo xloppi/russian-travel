@@ -2,15 +2,20 @@
   display: grid;
   grid-template-columns: 100%;
   color: #ffffff;
-  padding-bottom: 50px;
+  padding-bottom: 49px;
+}
+
+.place:last-of-type {
+  padding-bottom: 0;
 }
 
 @media screen and (min-width: 768px) {
   .place {
     grid-template-columns: fit-content(340px) 1fr;
+    grid-template-rows: auto auto;
     row-gap: 48px;
     column-gap: 28px;
-    padding-bottom: 60px;
+    padding-bottom: 61px;
     grid-template-areas:
       "title website"
       "image place_text";
@@ -20,12 +25,14 @@
 @media screen and (min-width: 1024px) {
   .place {
     max-width: 928px;
-    padding-bottom: 47px;
+    padding-bottom: 80px;
+    column-gap: 30px;
   }
 }
 
 @media screen and (min-width: 1280px) {
   .place {
     max-width: 984px;
+    column-gap: 37px;
   }
 }

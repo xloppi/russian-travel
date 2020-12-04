@@ -4,8 +4,9 @@
   font-size: 32px;
   line-height: 1.09;
   text-align: center;
-  margin: 0 0 19px 0;
+  margin: 0 auto 19px;
   position: relative;
+  max-width: 250px;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
   -moz-text-size-adjust: 100%;
@@ -16,5 +17,7 @@
   .cover__title {
     font-size: 72px;
     line-height: 1.06;
+    max-width: 560px;
+    margin: 0 auto 33px auto;
   }
 }

@@ -1,6 +1,8 @@
 .page {
   background-color: #2A2C2F;
   font-family: 'Inter', Arial, sans-serif;
+  min-width: 320px;
+  max-width: 1184px;
   -webkit-font-smoothing: antialiased;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
@@ -20,3 +22,4 @@
     padding: 28px 48px 24px 48px;
   }
 }
+

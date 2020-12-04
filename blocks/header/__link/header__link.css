@@ -2,6 +2,10 @@
   padding-right: 18px;
 }
 
+.header__link:hover {
+  opacity: 0.8;
+}
+
 .header__link:last-of-type {
   padding-right: 0;
 }

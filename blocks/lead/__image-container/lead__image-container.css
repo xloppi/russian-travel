@@ -1,4 +1,3 @@
 .lead__image-container {
-  display: grid;
-  justify-items: start;
+  margin: 0;
 }
