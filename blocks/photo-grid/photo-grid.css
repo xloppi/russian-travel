@@ -1,1 +1,4 @@
-
+.photo-grid {
+  display: grid;
+  justify-items: center;
+}
