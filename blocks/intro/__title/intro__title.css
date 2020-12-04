@@ -4,6 +4,8 @@
   font-size: 32px;
   line-height: 35px;
   margin:0 0 40px;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
 }
 
 @media screen and (min-width: 768px) {

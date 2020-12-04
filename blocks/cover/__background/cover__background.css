@@ -39,5 +39,7 @@
 @media screen and (min-width: 1280px) {
   .cover__background {
     padding:245px 312px 245px 312px;
+    max-width: 1184px;
+    max-height: 740px;
   }
 }

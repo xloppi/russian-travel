@@ -1,13 +1,21 @@
 .place__paragraph {
+  font-family: Inter;
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
   line-height: 163%;
   margin: 0 0 25px 0;
+  text-rendering: optimizeLegibility;
 }
 
 .place__paragraph:last-of-type {
   margin: 0;
 }
 
+@media screen and (min-width: 1024px) {
+  .place__paragraph {
+    font-size: 18px;
+    margin: 0;
+  }
+}
 

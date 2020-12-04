@@ -4,12 +4,18 @@
   font-size: 40px;
   line-height: 44px;
   text-align: center;
-  margin: 39px 0 0 0;
+  margin: 41px 0 0 0;
 }
 
 @media screen and (min-width: 768px) {
   .lead__title {
   font-size: 96px;
   line-height: 1.04;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .lead__title {
+    margin: 50px 0 0 0;
   }
 }

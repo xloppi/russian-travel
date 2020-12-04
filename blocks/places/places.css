@@ -4,12 +4,12 @@
 
 @media screen and (min-width: 768px) {
   .places {
-    padding-top: 74px;
+    padding-top: 75px;
   }
 }
 
 @media screen and (min-width: 1024px) {
   .places {
-    padding-top: 88px;
+    padding-top: 80px;
   }
 }

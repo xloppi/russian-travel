@@ -5,7 +5,8 @@
   line-height: 1.09;
   margin: 0 0 32px 0;
   align-self: end;
-  justify-self: start;
+  text-rendering: optimizeLegibility;
+  /*justify-self: start;*/
 }
 
 @media screen and (min-width: 768px) {
