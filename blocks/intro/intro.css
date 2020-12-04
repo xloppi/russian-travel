@@ -16,20 +16,6 @@
 @media screen and (min-width: 1024px) {
   .intro {
     padding: 92px 0 92px 0;
-    max-width: 690px;
-  }
-}
-
-@media screen and (min-width: 768px) {
-  .intro {
-    padding: 88px 0 88px 0;
-  }
-}
-
-@media screen and (min-width: 1024px) {
-  .intro {
-    padding: 92px 0 92px 0;
-
   }
 }
 
