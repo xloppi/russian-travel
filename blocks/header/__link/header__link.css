@@ -1,5 +1,6 @@
 .header__link {
   padding-right: 18px;
+  transition: opacity 0.3s;
 }
 
 .header__link:hover {
