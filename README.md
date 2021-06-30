@@ -7,8 +7,8 @@
 
 https://xloppi.github.io/russian-travel/
 
-## Технологии, используемые в проекте: ##
+## Стек технологий: ##
 
-1. Grid Layout.
-2. Flexbox.
+![](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=HTML5)
+![](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=CSS3)
 
