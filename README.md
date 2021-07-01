@@ -7,8 +7,10 @@
 
 https://xloppi.github.io/russian-travel/
 
-## Стек технологий: ##
+**Стек технологий:**
 
 ![](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=HTML5)
 ![](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=CSS3)
 
+**ссылка на сайт**
+https://xloppi.github.io/russian-travel/
